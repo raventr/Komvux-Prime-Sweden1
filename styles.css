@@ -72,6 +72,15 @@ html, body {
     font-family: 'Righteous', cursive;
 }
 
+
+footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
 .container {
     max-width: 900px;
     margin: 0 auto;
